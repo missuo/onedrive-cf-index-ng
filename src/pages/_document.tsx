@@ -1,14 +1,3 @@
-/*
- * @Author: Vincent Yang
- * @Date: 2024-11-20 17:41:16
- * @LastEditors: Vincent Yang
- * @LastEditTime: 2024-11-20 18:12:52
- * @FilePath: /onedrive-cf-index-ng/src/pages/_document.tsx
- * @Telegram: https://t.me/missuo
- * @GitHub: https://github.com/missuo
- * 
- * Copyright © 2024 by Vincent, All Rights Reserved. 
- */
 import Document, { Head, Html, Main, NextScript } from 'next/document'
 import siteConfig from '../../config/site.config'
 
